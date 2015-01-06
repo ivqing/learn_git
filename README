@@ -1,3 +1,11 @@
 Learn git by doing.
 there will be lots of mistakes, but I will make progress.
 
+###############################
+github suports HTTPS and SSH wich is faster and native suport by git,
+so I add the ssh key to github.
+
+ssh is prefered.
+1.safe
+2.faster
+3.don't have to type the username & pwd everytime.
