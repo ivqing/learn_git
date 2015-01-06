@@ -1,0 +1,15 @@
+Summary of git learning today
+
+1.git init :set up empty local repository
+2.git add : add the working dirs to stage 
+3.git commit : commit to the 版本库
+
+4.git status : list the status of the repository
+5.git diff file : print the diffrence
+6.git checkout --file : discard the changes in working directory
+7.git log : list the logs namely all the HEAD
+8.git reflog :list the command
+
+9.git clone urs/ssh : clone remote repository
+10.git remote add url/ssh : set up remote repository
+11.git push origin master : push the loacal commits to remote.
