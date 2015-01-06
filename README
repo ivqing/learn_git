@@ -9,3 +9,6 @@ ssh is prefered.
 1.safe
 2.faster
 3.don't have to type the username & pwd everytime.
+###############################
+I still typed the username and pwd last commit, beacuase 
+I didn't swich remote URLs from https to ssh.
