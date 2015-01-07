@@ -13,3 +13,10 @@ Summary of git learning today
 9.git clone urs/ssh : clone remote repository
 10.git remote add url/ssh : set up remote repository
 11.git push origin master : push the loacal commits to remote.
+
+git branch: list the branches
+git branch <name>: set up a new branch
+git checkout <name>: swich the branch
+git checkout -b <name>: set up and switch branch
+git merge <name>: merge the branch to the current branch
+git branch -d <name>: delete the branch
