@@ -6,3 +6,5 @@ Git tracks changes.
 My stupid boss still prefers SVN.
 
 Creating a new branch named "dev".
+
+Creating a new branch is quick and conflict.
