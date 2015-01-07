@@ -6,3 +6,5 @@ Git tracks changes.
 My stupid boss still prefers SVN.
 
 Creating a new branch named "dev".
+
+add conflicts in master.
