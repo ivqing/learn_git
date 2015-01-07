@@ -7,4 +7,4 @@ My stupid boss still prefers SVN.
 
 Creating a new branch named "dev".
 
-add conflicts in master.
+fix conflicts in master and feature.
